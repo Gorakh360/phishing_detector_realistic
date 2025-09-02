@@ -1,0 +1,5 @@
+=== PHISHING_DETECTOR DEMO RUN ===
+
+This file shows an example run of the phishing_detector project on Windows 11.
+
+See screenshots in assets/screenshots/ for visuals.
